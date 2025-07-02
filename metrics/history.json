@@ -16,5 +16,11 @@
     "total": 120,
     "passed": 115,
     "failed": 5
+  },
+  {
+    "timestamp": "2025-07-02T15:53:42Z",
+    "total": 120,
+    "passed": 115,
+    "failed": 5
   }
 ]
