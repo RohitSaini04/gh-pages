@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2025-07-01T10:00:00Z",
+    "total": 100,
+    "passed": 95,
+    "failed": 5
+  },
+  {
+    "timestamp": "2025-07-02T10:00:00Z",
+    "total": 110,
+    "passed": 100,
+    "failed": 10
+  }
+]
